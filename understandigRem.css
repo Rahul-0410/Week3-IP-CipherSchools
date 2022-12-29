@@ -1,0 +1,16 @@
+html{
+    font-size: 10px;
+    font-size: 62.5%;
+}
+/* 62.5% is same as 10mpx but it is more supportibe to userchanges so % is better  */
+
+.box1{
+    font-size: 2rem;
+}
+.text-content{
+    font-size: 3rem;
+    border: 1rem solid red;
+    margin: 0.5rem;
+    padding: 2.5rem;
+
+}
